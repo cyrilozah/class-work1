@@ -1,0 +1,79 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+
+}
+
+main {
+    background-color: hsl(216, 50%, 16%);
+    max-width: 350px;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.rell {
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+}
+
+.bee h3 {
+    color: #0fff;    
+    display: flex;
+    gap: 10px;
+
+}
+
+.bee {
+    color: hsl(215, 51%, 70%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bee h4 {
+    color: hsl(215, 51%, 70%);
+    display: flex;
+    gap: 10px;
+
+}
+
+
+.line {
+    border: 0.1px solid hsl(215, 51%, 70%);
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 15px;
+}  
+
+.dash {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: white;
+}
+
+.dash img {
+    border: 3px solid white;
+    border-radius: 50px;
+    width: 50px;
+}
+h1:hover{
+    color: cyan;
+}
+
+/* Body Background Color: hsl(217, 54%, 11%) */
+/* Main Background Color: hsl(216, 50%, 16%) */
